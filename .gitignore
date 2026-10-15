@@ -3,5 +3,6 @@ data
 .idea
 ,pycache
 *.jpg
-**.png
+*.png
 *.csv
+*.zip
